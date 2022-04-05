@@ -1,3 +1,6 @@
+# v2.2 S-Music [have-Slash]
+- [v2.2](https://github.com/Tira-tw/S-Music-Slash/releases/tag/v2.2)
+
 # v2.1 S-Music [have-Slash]
 
 - [v2.1](https://replit.com/@9688Girl/slash-S-Music?v=1)
