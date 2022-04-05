@@ -5,6 +5,9 @@
 # v2.0 S-Music [not Slash]
 - [v2.0](https://github.com/Tira-tw/S-Music)
 
+# Bot invite
+- [S-Music](https://discord.com/oauth2/authorize?client_id=931197474826227773&permissions=37080128&scope=bot%20applications.commands)
+
 # Support
 - [S-Support](https://discord.gg/u4t5D7MpAx)
 
