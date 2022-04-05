@@ -1,9 +1,9 @@
-# v2.0 S-Music [have-Slash]
+# v2.1 S-Music [have-Slash]
 
-- [v2.0](https://replit.com/@9688Girl/slash-S-Music?v=1)
+- [v2.1](https://replit.com/@9688Girl/slash-S-Music?v=1)
 
-# v1.0 S-Music [not Slash]
-- [v1.0](https://github.com/Tira-tw/S-Music)
+# v2.0 S-Music [not Slash]
+- [v2.0](https://github.com/Tira-tw/S-Music)
 
 # Support
 - [S-Support](https://discord.gg/u4t5D7MpAx)
